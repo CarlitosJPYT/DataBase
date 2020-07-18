@@ -1,0 +1,26 @@
+{
+     "Christmas" : [
+          {
+               "Author" : [
+                    {
+                         "El Gran Combo" : 1,
+                         "Rodolfo Aicardi" : 2
+                    }
+               ]
+          }
+     ],
+     "song" : [
+          {
+               "I do nothing else" : "1",
+               "Lemon with rum" : "2",
+               "A summer in New York" : "1",
+               "Darling" : "2",
+               "Rice with beans" : "1",
+               "That there is no trace" : "2",
+               "I broke free" : "1",
+               "Only Ashes Left" : "2",
+               "There is no bed for so many people" : "1",
+               "The schoolgirl" : "2"
+          }
+     ]
+}
